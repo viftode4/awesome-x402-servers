@@ -25,7 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
-* Token Risk - DeFi pool yield intelligence and EVM token or contract risk scans for $0.01 USDC on Base. [API](https://viftode4-token-risk-402.loca.lt/token-risk?chain=base) [x402](https://viftode4-token-risk-402.loca.lt/.well-known/x402) [Source](https://github.com/viftode4/coins/tree/main/capital_gainer/x402_service)
+* Token Risk & Base Swap Preflight - EVM token or contract risk scans and strict execute/do-not-execute Base swap checks for $0.01 USDC per call. [Token Risk](https://viftode4-token-risk-402.loca.lt/token-risk?chain=base) [Swap Preflight](https://viftode4-token-risk-402.loca.lt/swap-preflight) [x402](https://viftode4-token-risk-402.loca.lt/.well-known/x402) [Source](https://github.com/viftode4/coins/tree/main/capital_gainer/x402_service)
 
 ---
 
