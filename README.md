@@ -25,7 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
-* Token Risk & Base Swap Preflight - EVM token or contract risk scans and strict execute/do-not-execute Base swap checks for $0.01 USDC per call. [Token Risk](https://viftode4-token-risk-402.loca.lt/token-risk?chain=base) [Swap Preflight](https://viftode4-token-risk-402.loca.lt/swap-preflight) [x402](https://viftode4-token-risk-402.loca.lt/.well-known/x402) [Source](https://github.com/viftode4/coins/tree/main/capital_gainer/x402_service)
+* CapGain Safety & Work Artifacts - EVM token risk and Base swap preflights from $0.01, plus machine-buyable invariant tests ($0.03), repository reviews ($0.05), and protocol research ($0.03). [Service](https://5-9-107-124.nip.io) [x402](https://5-9-107-124.nip.io/.well-known/x402.json) [Source](https://github.com/viftode4/coins/tree/main/capital_gainer/x402_service)
 
 ---
 
